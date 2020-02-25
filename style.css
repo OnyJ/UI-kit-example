@@ -21,7 +21,6 @@
 /* ************************************* */
 /*                NAVBAR                 */
 /* ************************************* */
-
 #dropdownMenuButton {
   margin-right: 32px;
 }
@@ -29,7 +28,26 @@
 /* ************************************* */
 /*                FOOTER                 */
 /* ************************************* */
-
 .space-line {
   height: 2px;
+}
+
+/* ************************************* */
+/*                BANNER                 */
+/* ************************************* */
+.party_background {
+  background-image: url('https://images.pexels.com/photos/1540406/pexels-photo-1540406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
+.drink_background {
+  background-image: url('https://images.unsplash.com/photo-1527529482837-4698179dc6ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
+}
+.jumb-lg {
+  height: 90vh;
+}
+.transparent {
+  background-color: rgba(0,0,0,0.3);
+  height: 70vh;
+}
+.transparent h1 {
+  font-size: 5em;
 }
