@@ -1,5 +1,5 @@
 # UI Kit Project
-UI kit to do an other style to the eventbrite website. 
+UI kit to replace eventbrite's website style. 
 To see the elements :
 * Download or clone the repo,
 * Open the index.html file,
